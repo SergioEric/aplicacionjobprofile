@@ -1,9 +1,21 @@
 {
-  "name": "ionic-heroku",
-  "description": "Ionic Node.js Heroku app",
-  "version": "0.0.1",
+  "name": "jobprofile-heroku",
+  "version": "0.1.2",
+  "description": "'JobProfile' una Aplicación mobil para que encuentres los perfiles profesionales que siempre has buscado. Descargala a tu celular Android para que puedas acceder a toda la información.",
+  "main": "server.js",
+  "author": "Sergio Eric  <sericmorales@gmail.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
   "private": true,
   "dependencies": {
     "express": "~4.4.3"
-  }
+  },"engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SergioEric/aplicacionjobprofile"
+  },
+  "license": "MIT"
 }
