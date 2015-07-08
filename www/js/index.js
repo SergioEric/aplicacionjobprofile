@@ -127,15 +127,26 @@ App.controller('ChatDetailCtrl', function($scope, $stateParams, $http, $timeout)
 
 
     $scope.sendMessage = function(nameUser,emailUser,numberUser,CommentsUser){
+        var _date = Date.now();
+        // var Today = _date.now();
+        // var month = _date.getMonth();
+        // var day = _date.getDay();
+        // var date_ = day + "-" + month + "-" + 2015;
         messagesRef.push({
             name : nameUser,
             email : emailUser,
             number : numberUser,
-            commet : CommentsUser
+            commet : CommentsUser,
+            fecha : _date,
+            id : $scope.chat['name']
             // email :  $scope.emailUser,
             // number :  $scope.phoneUser,
             // comment : $scope.CommentsUser
-        })
+        });
+        $scope.nameUser = '';
+        $scope.emailUser = '';
+        $scope.phoneUser = '';
+        $scope.CommentsUser = '';
     }
 
     // $scope.sendMessage1 = function() {

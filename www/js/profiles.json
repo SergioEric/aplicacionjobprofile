@@ -3,7 +3,7 @@
     "name": "Pedro Montes",
     "ocupacion": "Comerciante en Sahagún",
     "descripcion": "Dentro de las destrezas útiles que poseo para ocupar el puesto de trabajo tengo coordinar al personal a cargo y sus funciones, capacidades en la planeación y administración de presupuestos, conocimientos en administración, mercadotecnia, publicidad, ventas, contabilidad y negociación también marco como esencial atención y asesoramiento personal a los clientes y usuarios, la apertura y cierre del establecimiento y punto de venta, acomodo, etiquetado e inventario de mercancía, venta y cobro de artículos y mercancía exhibida, realización de limpieza del área de trabajo y local en general, pesar y empacarlos productos, traer mercancías de los depósitos o almacenes y exponerlas en los locales de venta al público, averiguar la clase y calidad del producto que desea el cliente, Indicar los precios, condiciones de crédito y descuentos. En cuanto a actitudes, hábitos y valores se da como importante la responsabilidad.",
-    "face": "../img/photos/pedro.jpg"
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p130x130/10353555_529982400465410_4858209456058456772_n.jpg?efg=eyJpIjoibyJ9&oh=8ac35a9b4356cb554c3817addcf02de8&oe=56569B87"
   }, {
     "id": 1,
     "name": "Ayrton Martinez",
@@ -78,24 +78,18 @@
     "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p100x100/11542048_10207247638929302_980077418318795828_n.jpg?efg=eyJpIjoibyJ9&oh=cd104e9e99f1e6543f968145a8030f1d&oe=5618B93F"
   },{
     "id": 13,
-    "name": "Maria Marcela Ramirez",
-    "ocupacion": "En espera...",
-    "descripcion": "Aqui una descripcion detallada de su perfil profesional, aptitudes, destrezas, fortalezas  etc",
-    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p100x100/10959496_1375472812769166_4969862480074616291_n.jpg?efg=eyJpIjoibyJ9&oh=78ea8629d7b7ddc4c1d3ea6bf098caef&oe=561F5043"
-  },{
-    "id": 14,
     "name": "Rafael Cáliz de la Barrera",
     "ocupacion": "Formulador de Proyectos",
     "descripcion": "Capaz de identificar las necesidades del sector para la formulación y gestión de proyectos, desempeñándome como formulador, administrador, evaluador y asesor empresarial con la utilización de herramientas de planeación, gestión de recursos, control y administración tecnológica en el desarrollo y ejecución de proyectos constructivos.Investigador y consultor en evaluación de proyectos públicos y privados.Director del departamento de planeación en las empresas públicas y privadas Docente investigador. Asesor de empresas en proyectos. Consultor nacional e internacional de proyectos públicos y privados. Planificador financiero. Gerente financiero",
     "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p100x100/11024699_10206124818622006_4474298369700682028_n.jpg?efg=eyJpIjoibyJ9&oh=27549eeb8540973556d2ab9ac13e21ed&oe=562BD1E8"
   },{
-    "id": 15,
+    "id": 14,
     "name": "Alexander Montalvo",
     "ocupacion": "Ingeniero quimico",
     "descripcion": "Ingeniero quimico con experiencia de cuatro años manejo de todos las ambitos referentes  a la quimica organica e inorganica. Capaz de  solucionar problemas referentes a la bioquimica; de evaluar, adaptar, modificar, e innovar procesos de produccion y la ejecucion de analisis quimicos. Comprometido con el desarrollo tecnologico del sector quimico industrial. Activista a la preservacion del medio ambiente. Doy el maximo total de mis conocimientos.cuento con dispocicion a  trabajar  de forma individual o grupal para el exito de la empresa y la preservacion del   medio ambiente. Emprendedor de empresas de base tecnologica en sectores quimicos fundamentales en desarrollo sostenible. Con una excelente comunicacion y asimilacion de sugerencias, ordenes y trasmision de conociminetos, capaz de trabajar bajo presion.",
     "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c0.36.100.100/p100x100/1453370_841236282583607_624261076266420126_n.jpg?efg=eyJpIjoibyJ9&oh=06c403e0b6c29ce89035fa9ed049ad43&oe=561E0D86"
   },{
-    "id": 16,
+    "id": 15,
     "name": "Ricardo Zabaleta Diaz",
     "ocupacion": "Adiministrador de Empresas",
     "descripcion": "Adiministrador de Empresas, con espíritu emprendedor con entrenamiento avanzado en análisis organizacional, servicio al cliente y estudio de presupuestos y costos . Profesional interesado en procesos de la asimilación del conocimiento y de la tecnología (dentro y fuera de la organización) capaz de definir y de evaluar el logro de metas con un uso racional de recursos disponibles orientado a resultados y proactivo ante la resolución de problemas. Analítica y proactiva capaz de trabajar bajo presión,habilidad para realizar cualquier tipo de negociación.",

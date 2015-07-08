@@ -1,9 +1,9 @@
 <ion-view view-title="Base de Datos">
   <ion-content>
   	<h1 class="text-center">Lista de Contratos</h1>
-    <ion-list ng-repeat="msj in messages">
+    <ion-list ng-repeat="msj in messages | orderBy:'-fecha'">
 	    <div class="item item-divider">
-		    {{ msj.name }}
+		    {{ msj.name | uppercase}}
 		 </div>
 		  <p class="item item-icon-left">
 		    <i class="icon ion-email"></i>
@@ -13,13 +13,21 @@
 			<i class="icon ion-android-call"></i>
 			{{ msj.number}}
 		</p>
-		<p class="item item-icon-left">
+		<p class="item item-icon-left item-text-wrap">
 			<i class="icon ion-chatbox-working"></i>
 			{{ msj.commet}}
 		</p>
+		<p class="item item-icon-left">
+			<i class="icon ion-person"></i>
+			Contrata a: {{ msj.id}}
+		</p>
+		<p class="item item-icon-left">
+			<i class="icon ion-calendar"></i>
+			Fecha : {{msj.fecha | date:'dd-MM-yyyy HH:mm Z' }}
+		</p>
 
 		<br>
-	</ion-list>
+	</ion-list> <!-- date:'yyyy-MM-dd HH:mm:ss Z' -->
 
   </ion-content>
 </ion-view>
