@@ -2,6 +2,7 @@
 	// document.addEventListener('deviceready"',isReady, false );
 
   // function isReady(){
+  var ref = new Firebase("https://jobprofile.firebaseio.com/");
     var App = angular.module('myApp', ['ionic']);
 // window.onload = function(){
 
@@ -117,9 +118,14 @@
         });
         // $scope.chat = Chats.get($stateParams.chatId);
 
-        $scope.doit = function(data){
-          alert('E-mail enviado');
-          console.log(data)
+
+        $scope.doit = function(){
+          ref.child('message').set({
+            email: $scope.emailUser
+            number : $scope.phoneUser,
+            comment : $scope.CommentsUser
+          });
+          alert('Información Enviada con Exito')
         }
     });
 
@@ -142,12 +148,15 @@
     });
   // }
 
-    // End controllers
-    //
-    /* services*/
 
-// }
+// Create a connection to your Firebase database
 
-// function isReady(){
-// 	alert('hi');
-// }
+
+// // Save data
+// ref.set({ name: "Alex Wolfe" });
+
+// // Listen for realtime changes
+// ref.on("value", function(data) {
+//   var name = data.val().name;
+//   alert("My name is " + name);
+// });
