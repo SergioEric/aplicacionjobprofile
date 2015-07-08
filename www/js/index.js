@@ -143,6 +143,7 @@ App.controller('ChatDetailCtrl', function($scope, $stateParams, $http, $timeout)
             // number :  $scope.phoneUser,
             // comment : $scope.CommentsUser
         });
+        alert('Información Enviada con Exito');
         $scope.nameUser = '';
         $scope.emailUser = '';
         $scope.phoneUser = '';
