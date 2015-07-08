@@ -1,0 +1,7 @@
+{
+  "name": "JobProfile",
+  "description": "A simple Ionic app for JobProfile",
+  "repository": "https://github.com/SergioEric/aplicacionjobprofile",
+  "logo": "https://github.com/SergioEric/aplicacionjobprofile",
+  "keywords": ["ionic", "static"]
+}

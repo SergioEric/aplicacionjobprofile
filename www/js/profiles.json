@@ -1,0 +1,104 @@
+[{
+    "id": 0,
+    "name": "Pedro Montes",
+    "ocupacion": "Comerciante en Sahagún",
+    "descripcion": "Dentro de las destrezas útiles que poseo para ocupar el puesto de trabajo tengo coordinar al personal a cargo y sus funciones, capacidades en la planeación y administración de presupuestos, conocimientos en administración, mercadotecnia, publicidad, ventas, contabilidad y negociación también marco como esencial atención y asesoramiento personal a los clientes y usuarios, la apertura y cierre del establecimiento y punto de venta, acomodo, etiquetado e inventario de mercancía, venta y cobro de artículos y mercancía exhibida, realización de limpieza del área de trabajo y local en general, pesar y empacarlos productos, traer mercancías de los depósitos o almacenes y exponerlas en los locales de venta al público, averiguar la clase y calidad del producto que desea el cliente, Indicar los precios, condiciones de crédito y descuentos. En cuanto a actitudes, hábitos y valores se da como importante la responsabilidad.",
+    "face": "../img/photos/pedro.jpg"
+  }, {
+    "id": 1,
+    "name": "Ayrton Martinez",
+    "ocupacion": "Administrador en salud",
+    "descripcion": " Estudioso y observador constante para continuar su aprendizaje y adaptarse a los cambios que se produzcan a nivel científico, técnico, administrativo y social para participar críticamente en el desarrollo. Que fundamenta el ejercicio de su profesión en el dominio de las bases científicas de las ciencias de la salud aplicando en sus prácticas el razonamiento científico y el pensamiento social.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p100x100/11659419_871666816222018_6037942497289101209_n.jpg?efg=eyJpIjoibyJ9&oh=57a0c6e6850099d48cf2957a49d43b51&oe=5632A9A0"
+  },{
+    "id": 2,
+    "name": "Sergio Eric Morales",
+    "ocupacion": "Desarrollador y  Diseñador",
+    "descripcion": "Mi trabajo se enfoca hacia las tecnologías web. Soy un apasionado del desarrollo web, tanto desktop como mobile, más centrado en la parte Front-End (HTML5, CSS3, JS, Responsive Design) tanto en desarrollo como diseño, pero me gusta trastear también con el Back-End (Node.js, MongoDB). Intento especializarme en JavaScript, el cual considero que no es sólo el lenguaje del futuro, si no del presente ya que prácticamente se puede hacer todo con él (Aplicaciones móviles, Web, Servidores, Programar microcontroladores, etc)",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xta1/v/t1.0-1/c0.0.100.100/p100x100/10301047_665036460199508_4668423653920073809_n.jpg?efg=eyJpIjoibyJ9&oh=c9cd928f95ef0962601b6f15aba7a8d0&oe=561D0143"
+  }, {
+    "id": 3,
+    "name": "Migue Vidal Guerrero",
+    "ocupacion": "Ingeniero Civil",
+    "descripcion": "Ingeniero Civil con experiencia laboral internacional en áreas de diseño y supervisión de proyectos, residente de obra, manejo de contratistas y atención al cliente. Me considero una persona responsable, creativa, con iniciativa y puntualidad, asumo con agrado los retos y metas que su organización me pudiera plantear; con buen manejo de relaciones interpersonales, facilidad para trabajar en equipo, en condiciones de alta presión, así como para resolver problemas eficientemente y lograr las metas trazadas por la empresa y mi grupo de trabajo, dominio del idioma Ingles,Frances è Italiano debido a que trabaje durante varios años en los siguientes paises (Canada,Australia,Usa,Italia è Inglaterra) .",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/c22.13.89.89/p111x111/11182301_10206803403592917_1166635158733043879_n.jpg?efg=eyJpIjoibyJ9&oh=f83c63c8b410aac34f7b7b96766be56a&oe=56333286"
+  }, {
+    "id": 4,
+    "name": "Fabio Prasca",
+    "ocupacion": "Ingeniero Ambiental",
+    "descripcion": "Ingeniero ambiental con más de 5 años de experiencias en evaluar y valorar la cambiante calidad del medio ambiente y su incidencia sobre el ambiente global implementando fórmulas políticas, estrategia y herramientas para la regulación y el control de la contaminación, que posibiliten las construcciones de entornos territoriales innovadores con un amplio diseño en la construcción en sistemas tratamientos para el control de emisión y reducción de influyentes que contribuya a la búsqueda a la reducción de riesgos para el ser humano y el medio ambiente. De igual forma prestó asesorías técnica y consultoría medioambiental con tecnología limpias y estudios de impactó ambiental.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p100x100/10402569_10203668838476172_1382618873951562928_n.jpg?efg=eyJpIjoibyJ9&oh=e3de1673122e6a03ee7138626985323c&oe=561604F4"
+  },{
+    "id": 5,
+    "name": "Devinson Diaz Jimenez",
+    "ocupacion": "Economista",
+    "descripcion": "Economista  con más de 15 años de experiencias en labores administrativas y de supervisión. Durante mi trayectoria he supervisado directamente más 300 empleados siempre con muy buenos resultados.He recibido diversos entrenamientos a lo largo de mi vida laboral, nacionales e internacionales, los cuales me dotan de la capacidad necesaria para desempeñar labores con gran responsabilidad, pero también simples y trabajar bajo presión.En el área financiera, poseo buenas aptitudes en el manejo de presupuestos, inventarios y costos, así como también todos los subsistemas del ciclo contable; créditos, carteras de clientes, tasas de intereses y amortiguaciones, reconociendo debilidad en el área impositiva.Soy una persona, entusiasta, dinámica, emprendedor, con iniciativa e innovación,adaptabilidad y sobretodo un alto sentido de responsabilidad, esto sumado a mi alto sentido de negocios y visión gerencial, es una combinación  que con todo respeto y modestia   considero útil para el buen desempeño de una función en cualquier institución o empresa.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xtf1/v/t1.0-1/p100x100/11391717_896808283724130_2983908261330275975_n.jpg?efg=eyJpIjoibyJ9&oh=183d6517f087fe2dd9b85ca15097253f&oe=56255DBB"
+  },{
+    "id": 6,
+    "name": "Annalea Rivera Moreno",
+    "ocupacion": "Ingeniera Industrial",
+    "descripcion": "Ingeniera Industrial entusiasta con experiencia de diez años en planeación y desarrollo de proyectos de automatización y control.Efectiva y positiva trabajando en equipo conocido por la contribución efectiva, soluciones creativas, así como hábil técnicamente. Capaz de dar y recibir críticas constructivas mientras trabajo en un ambiente de equipo para lograr un objetivo en común.Efectivo escuchando/comunicando y rápido aprendiendo cosas nuevas, hambrienta de conocimiento.Trabajadora productivo bajo presión y altamente motivada. ",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p100x100/11010005_830244013724780_3898316951570562050_n.jpg?efg=eyJpIjoibyJ9&oh=3300becf5fec2dbf23afc0880d34826f&oe=56293214"
+  },{
+    "id": 7,
+    "name": "Daniela Domingues",
+    "ocupacion": "Ingeniería Mecánica Industrial",
+    "descripcion": "Diez años de experiencia en Ingeniería Mecánica Industrial,graduado en la Universidad de Oxford ( Inglaterra ),experto en el desarrollo de proyectos en el área de refinación de Gas y Crudo. Desarrollo de proyectos de Ingenierías conceptuales, básica y de detalle. Conocimientos en diseño de equipos como separadores, tanques de almacenamiento atmosféricos, diseño de tuberías y especificaciones de bombas. Conocimientos de revisión, lectura e interpretación de planos, diagramas de tuberías e instrumentación. Manejo e interpretación de normas internacionales como API, ASME, ANSI, NFPA, PIP, ASTM, y otros. Además con un año de experiencia en el área de mantenimiento mecánico, eléctrico y electrónico de líneas de equipos en líneas de producción.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p100x100/11692660_821699304581163_7675453874144215472_n.jpg?efg=eyJpIjoibyJ9&oh=35cc3387f134f832b33ca4889da0914c&oe=560E102B"
+  },{
+    "id": 8,
+    "name": "Maria Jose Malo",
+    "ocupacion": "Tecnóloga en Administración",
+    "descripcion": "Tecnóloga en Administración de Empresas con experiencia laboral en áreas como Gestión Humana, Finanzas y Comercial. Con capacidad de liderazgo, organización, servicio al cliente, relaciones interpersonales con actitud positiva, activa y disciplinada, dispuesta al trabajo en equipo. Adaptabilidad a los cambios organizacionales y aprendizaje continúo.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p100x100/11017676_715502148558712_4350784886272988982_n.jpg?efg=eyJpIjoibyJ9&oh=6cf25abd0d02545d87466a71edf4ec9d&oe=56325C70"
+  },{
+    "id": 9,
+    "name": "Anderson Diaz",
+    "ocupacion": "Ingeniero Ambiental",
+    "descripcion": "Ingeniero ambiental con experiencia laboral internacional, con un sólido conocimiento en Ciencias Básicas orientadas al medio ambiente y su relación con los procesos productivos. Capaz de realizar el estudio de impacto ambiental de los desarrollos industriales y tecnológicos, identificando sus puntos vulnerables y apoyando de manera práctica sus procesos para que cumplan con la normativa vigente. Lleva a cabo el control de la contaminación del agua, suelo, aire y residuos en la ciudad Gestiona el óptimo uso de los recursos naturales para la obtención de productos y procesos coeficientes. Realiza auditorías ambientales en diversos sectores. Interpreta y realiza cálculos de evaluación y cuantificación de contaminantes atmosféricos, así como el diseño de equipos y procesos masados en su control. Capaz de dar y recibir críticas constructivas mientras trabajo en un ambiente de equipo para lograr un objetivo en común.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p100x100/10999431_654074561405121_8525572366460895168_n.jpg?efg=eyJpIjoibyJ9&oh=b82ceb2cbd26745897ad17c46cc29c86&oe=560F6CD7"
+  },{
+    "id": 10,
+    "name": "Tomas Regino Coronado",
+    "ocupacion": "Ingeniero Agrónomo",
+    "descripcion": "Ingeniero Agrónomo, profesional calificado, que gestiona, diseña, evalua y optimiza sistemas de produccion agropecuarios en forma sustentable, a apartir de la integracion del conocimiento cientifico basico y aplicado de plantas, animales y sus relaciones con los recursos bioticos y abioticos. Demuestra capacidad de liderazgo y de autogestion para aplicar el metodo cientifico en la resolucion de problemas dentro de un marco de responsabilidad y compromiso social.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/p100x100/11200635_413678945482384_8115994062971788751_n.jpg?efg=eyJpIjoibyJ9&oh=95ca87078b55233b8373138df23e5a18&oe=561700D5"
+  },{
+    "id": 11,
+    "name": "Isaac Tamara",
+    "ocupacion": "Ingeniero Electrónico",
+    "descripcion": "Ingeniero en electrónica e ingeniería en sistemas, especializado en planeación desarrollo y diseño de circuitos, con más de 13 años experiencia laboral internacional en las áreas de planeación, diseño y supervisión de proyectos, domino 4 idiomas Español, Inglés, Ruso, Alemán. Me consideró una persona muy perfeccionista en mi trabajo me gusta ser innovador y sorprender a todos con mis increíbles diseños.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p100x100/11036495_1623648937883062_5708421007911639731_n.jpg?efg=eyJpIjoibyJ9&oh=f79942da3ba4e9505c7951c2565cfd75&oe=560E80E6"
+  },{
+    "id": 12,
+    "name": "Pol Marino",
+    "ocupacion": "Ingeniero en Robótica",
+    "descripcion": "Ingeniero en Robótica e Ingeniero en Sistemas, con especialización en Software Avanzado para Robot utilizados en la fabricación de autos,motos aviones,etcétera y en Seguridad Informática. Tengo 8 años de experiencia trabajadon con empresas  Estado Unidendenses, koreanas ,Rusas y alemanas. Manejo 5 idiomas ingles, koreano,ruso,aleman y francés.Me consideró un persona puntual y muy responsable porque cumplo a tiempo con cualquier tarea que se me imponga desde la creación de un software hasta la de un robot para construcción de máquina en poco tiempo y de excelente calidad y garantizado. Me gusta trabajar en equipo lograr entregas de productos en un menor tiempo y socializar mucho con el grupo de trabajo.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xfa1/v/t1.0-1/p100x100/11542048_10207247638929302_980077418318795828_n.jpg?efg=eyJpIjoibyJ9&oh=cd104e9e99f1e6543f968145a8030f1d&oe=5618B93F"
+  },{
+    "id": 13,
+    "name": "Maria Marcela Ramirez",
+    "ocupacion": "En espera...",
+    "descripcion": "Aqui una descripcion detallada de su perfil profesional, aptitudes, destrezas, fortalezas  etc",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p100x100/10959496_1375472812769166_4969862480074616291_n.jpg?efg=eyJpIjoibyJ9&oh=78ea8629d7b7ddc4c1d3ea6bf098caef&oe=561F5043"
+  },{
+    "id": 14,
+    "name": "Rafael Cáliz de la Barrera",
+    "ocupacion": "Formulador de Proyectos",
+    "descripcion": "Capaz de identificar las necesidades del sector para la formulación y gestión de proyectos, desempeñándome como formulador, administrador, evaluador y asesor empresarial con la utilización de herramientas de planeación, gestión de recursos, control y administración tecnológica en el desarrollo y ejecución de proyectos constructivos.Investigador y consultor en evaluación de proyectos públicos y privados.Director del departamento de planeación en las empresas públicas y privadas Docente investigador. Asesor de empresas en proyectos. Consultor nacional e internacional de proyectos públicos y privados. Planificador financiero. Gerente financiero",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xpf1/v/t1.0-1/p100x100/11024699_10206124818622006_4474298369700682028_n.jpg?efg=eyJpIjoibyJ9&oh=27549eeb8540973556d2ab9ac13e21ed&oe=562BD1E8"
+  },{
+    "id": 15,
+    "name": "Alexander Montalvo",
+    "ocupacion": "Ingeniero quimico",
+    "descripcion": "Ingeniero quimico con experiencia de cuatro años manejo de todos las ambitos referentes  a la quimica organica e inorganica. Capaz de  solucionar problemas referentes a la bioquimica; de evaluar, adaptar, modificar, e innovar procesos de produccion y la ejecucion de analisis quimicos. Comprometido con el desarrollo tecnologico del sector quimico industrial. Activista a la preservacion del medio ambiente. Doy el maximo total de mis conocimientos.cuento con dispocicion a  trabajar  de forma individual o grupal para el exito de la empresa y la preservacion del   medio ambiente. Emprendedor de empresas de base tecnologica en sectores quimicos fundamentales en desarrollo sostenible. Con una excelente comunicacion y asimilacion de sugerencias, ordenes y trasmision de conociminetos, capaz de trabajar bajo presion.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xap1/v/t1.0-1/c0.36.100.100/p100x100/1453370_841236282583607_624261076266420126_n.jpg?efg=eyJpIjoibyJ9&oh=06c403e0b6c29ce89035fa9ed049ad43&oe=561E0D86"
+  },{
+    "id": 16,
+    "name": "Ricardo Zabaleta Diaz",
+    "ocupacion": "Adiministrador de Empresas",
+    "descripcion": "Adiministrador de Empresas, con espíritu emprendedor con entrenamiento avanzado en análisis organizacional, servicio al cliente y estudio de presupuestos y costos . Profesional interesado en procesos de la asimilación del conocimiento y de la tecnología (dentro y fuera de la organización) capaz de definir y de evaluar el logro de metas con un uso racional de recursos disponibles orientado a resultados y proactivo ante la resolución de problemas. Analítica y proactiva capaz de trabajar bajo presión,habilidad para realizar cualquier tipo de negociación.",
+    "face": "https://z-m-scontent.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/c0.4.100.100/p100x100/10369983_784950658242448_8904557003265923760_n.jpg?efg=eyJpIjoibyJ9&oh=83e0759594d3b6d105b538fc720b0c02&oe=5611FB04"
+  }
+  ]

@@ -1,0 +1,58 @@
+/* Empty. Add your own CSS if you like */
+
+body{
+
+}
+.alignCenter{
+	text-align: center;
+}
+.conLogo{
+	margin:3em 0 1em 40%;
+}
+.lema {
+
+}
+.logo{
+  width:100px;
+}
+
+.moreDescription{
+
+}
+.radio{
+	border-radius:50%;
+}
+
+.homeStyle{
+	/*background:#fcfcfc;*/
+	/*padding: 5px;*/
+	color: #333333;
+	/*font-family:"Helvetica Neue", "Roboto", "Segoe UI", sans-serif;*/
+}
+.lema{
+	font-size: 18px;
+	margin: 12px 0 12px 0;
+	text-align: center;
+}
+.moreDescription{
+	color : #dc464c;
+	font-size: 16px;
+	margin: 12px 0 12px 0;
+	text-align: center;
+}
+
+.splash {
+  background: url(../img/back.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.branding {
+  width: 50%;
+  max-width: 200px;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
