@@ -17,29 +17,34 @@
     <p class="homeStyle">
       {{chat.descripcion}}
     </p>
-    <label class="item item-input">
-    <!--   <div class="list">
-      <label class="item item-input">
-          <input type="text" placeholder="tu e-mail" ng-model="emailUser">
+      <div class="list">
+        <label class="item item-input">
+            <input type="text" placeholder="tu nombre" ng-model="nameUser">
         </label>
         <label class="item item-input">
-          <input type="number" placeholder="tu número" ng-model="numberUser">
+            <input type="text" placeholder="tu e-mail" ng-model="emailUser">
         </label>
         <label class="item item-input">
-          <textarea placeholder="deja tu comentario aqui... " ng-model="CommentsUser"></textarea>
+            <input type="number" placeholder="tu número" ng-model="numberUser">
         </label>
-      </div> -->
-      <input ng-model="emailUser" type="text" placeholder="tu e-mail" require>
-    </label>
+        <label class="item item-input">
+            <textarea placeholder="deja tu comentario aqui... " ng-model="CommentsUser"></textarea>
+        </label>
+        <label>
+            <input class="button button-balanced" type="submit" ng-click="sendMessage(nameUser,emailUser,numberUser,CommentsUser)" value="Contratar">
+        </label>
+      </div>
 
-    <label class="item item-input">
-      <input type="number" ng-model="phoneUser" type="text" placeholder="tu número" require>
-    </label>
-    <label class="item item-input">
-      <textarea placeholder="deja tu comentario aqui... " ng-model="CommentsUser"></textarea>
-    </label>
+     <!--  <div class="list" ng-repeat="msj in messages">
+
+      </div> -->
+
+
+      <!-- <input class="button button-balanced" type="submit" ng-click="sendMessage(data)" value="Contratar"> -->
+
+
     <br>
-    <input class="button button-balanced" type="submit" ng-click="doit(emailUser,phoneUser,CommentsUser)" value="Contratar">  <!-- emailUser,numberUser,CommentsUser -->
+
   </ion-content>
-</ion-view>
+</ion-view> <!-- emailUser,numberUser,CommentsUser -->
 

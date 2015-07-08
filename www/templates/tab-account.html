@@ -1,7 +1,25 @@
-<ion-view view-title="Account">
+<ion-view view-title="Base de Datos">
   <ion-content>
-    <ion-list>
+  	<h1 class="text-center">Lista de Contratos</h1>
+    <ion-list ng-repeat="msj in messages">
+	    <div class="item item-divider">
+		    {{ msj.name }}
+		 </div>
+		  <p class="item item-icon-left">
+		    <i class="icon ion-email"></i>
+		    {{ msj.email}}
+		  </p>
+		<p class="item item-icon-left">
+			<i class="icon ion-android-call"></i>
+			{{ msj.number}}
+		</p>
+		<p class="item item-icon-left">
+			<i class="icon ion-chatbox-working"></i>
+			{{ msj.commet}}
+		</p>
 
-    </ion-list>
+		<br>
+	</ion-list>
+
   </ion-content>
 </ion-view>
